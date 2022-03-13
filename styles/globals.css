@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.project {
+  text-decoration: none;
+  border-bottom: 2px solid rgb(74, 222, 129);
+  font-weight: 700;
+  transition: 0.5s ease-out;
+}
+
+.project:hover {
+  padding: 2px;
+  background: rgb(74, 222, 129);
+  transition: 0.1s ease-out;
+}
+
+.h-152 {
+  height: 260px;
+}
+
+.skill {
+  width: 30%;
+}
