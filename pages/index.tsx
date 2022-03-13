@@ -7,7 +7,7 @@ const projects = [
   {
     title: 'CRICKVERSE',
     image: '/crick.png',
-    description: "<a href='https://throwitin.xyz' target='_blank' className='project'>CrickVerse</a> is is cricket nft collection on etherium block chain, i worked with team  built frontend with NextJS and Tailwind css  </b>",
+    description: "<a href='https://cricverse.vercel.app' target='_blank' className='project'>CrickVerse</a> is is cricket nft collection on etherium block chain, i worked with team  built frontend with NextJS and Tailwind css  </b>",
     links: {
       website: 'https://cricverse.vercel.app/',
       github: 'https://github.com/44Chann/cricket-loot'
@@ -19,7 +19,7 @@ const projects = [
   {
     title: 'Side Kicks',
     image: '/SideKicks.png',
-    description: "<a href='https://sidekicks-frontend.vercel.app/' target='_blank' className='project'>Side Kicks</a> let's you share your peoject with community and  you Get Incentivize, i worked on the product page and product list page with team  ",
+    description: "<a href='https://sidekicks-frontend.vercel.app/' target='_blank' className='project'>Side Kicks</a> let's you share your project with community and  you Get Incentivize, i worked on the product page and product list page with team  ",
     links: {
 
       website: 'https://sidekicks-frontend.vercel.app/',
@@ -33,7 +33,7 @@ const projects = [
   {
     title: 'INFO',
     image: '/Info.jpg',
-    description: "<a href='https://github.com/44Chann/INFO' target='_blank' className='project'>INFO</a> helps find top news from all sorts of sources and you can read short sommury on the website or can read full news on Source website ",
+    description: "<a href='https://github.com/44Chann/INFO' target='_blank' className='project'>INFO</a> helps find top news from all sorts of sources and you can read short summary on the website or can read full news on Source website ",
     links: {
       twitter: '',
       website: '',
