@@ -47,7 +47,7 @@ const projects = [
   {
     title: 'Sudvice',
     image: '/su.png',
-    description: "<a href='https://sudvice.vercel.app/' target='_blank' className='project'>Sudovice</a> is a web app where you can search for advice and wisdom also you can share with other on twitter ",
+    description: "<a href='https://sudvice.vercel.app/' target='_blank' className='project'>Sudvice</a> is a web app where you can search for advice and wisdom also you can share with other on twitter ",
     links: {
       twitter: '',
       website: 'https://sudvice.vercel.app/',
