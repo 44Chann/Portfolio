@@ -61,7 +61,7 @@ const projects = [
   {
     title: '20 Giphy',
     image: '/Giphy.png',
-    description: "<a href='https://20-giphy.vercel.app/' target='_blank' className='project'>20 Giphy</a> uses Giphy APi to get Top 20 GIphs on any search keyword also allow you to share on twitter ",
+    description: "<a href='https://20-giphy.vercel.app/' target='_blank' className='project'>20 Giphy</a> uses Giphy APi to get Top 20 Gifs on any search keyword also allow you to share on twitter ",
     links: {
       twitter: '',
       website: 'https://20-giphy.vercel.app/',
